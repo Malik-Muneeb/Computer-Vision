@@ -1,0 +1,8 @@
+1) Add missing code in the file detect_corners.py.
+2) Run the get_results.bat batch file from cmd as
+	get_results.bat YOUR_ROLL_NUMBER
+
+This will create a .zip file with your roll number. Copy that .zip file in the appropriate folder on \\printsrv.
+
+
+If you are interested, you may open the .bat file in Notepad to see what commands are being executed to generate results. DO NOT EDIT THE BATCH FILE.
